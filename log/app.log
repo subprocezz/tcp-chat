@@ -1,0 +1,11 @@
+2024-11-04 11:40:11,590 - INFO - [32mServer listening localhost:12345[39m
+2024-11-04 11:40:15,901 - INFO - [32mConnection from ('127.0.0.1', 58130)[39m
+2024-11-04 11:40:27,870 - INFO - [32mReceived response: register test password123[33m
+2024-11-04 11:40:27,871 - INFO - [33mAttempting to register user: test[39m
+2024-11-04 11:40:36,171 - INFO - [32mReceived response: login test password123[33m
+2024-11-04 11:40:36,172 - INFO - [33mAttempting to login user: test[39m
+2024-11-04 11:40:42,276 - INFO - [33mtest disconnected.[39m
+2024-11-04 11:40:50,759 - INFO - [32mConnection from ('127.0.0.1', 36090)[39m
+2024-11-04 11:40:57,853 - INFO - [32mReceived response: login test password123[33m
+2024-11-04 11:40:57,853 - INFO - [33mAttempting to login user: test[39m
+2024-11-04 11:41:03,557 - INFO - [33mtest disconnected.[39m
